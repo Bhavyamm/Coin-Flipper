@@ -1,1 +1,1 @@
-Coin Flipper is a react application which tosses a virtual coin for you.
+Coin Flipper is a react application that tosses a virtual coin for you.
